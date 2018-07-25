@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+div{
+	border: 3px #666 double; width: 650px;
+	
+}
+
+p{
+	font-size: 18px;font-family: "楷体";font-weight: normal;color: gray;line-height: 32px;
+	}
